@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="6" failed="1" skipped="1">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-08T20:06:49 EST" name="Suite" finished-at="2024-01-08T20:06:49 EST" duration-ms="199">
+    <groups>
+    </groups>
+    <test started-at="2024-01-08T20:06:49 EST" name="Test" finished-at="2024-01-08T20:06:49 EST" duration-ms="199">
+      <class name="tests.NewTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeSuite" finished-at="2024-01-08T20:06:49 EST" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeTest" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeClass" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="test1" finished-at="2024-01-08T20:06:49 EST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="test2" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="beforeMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test3()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="test3" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterMethod" finished-at="2024-01-08T20:06:49 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterClass" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterTest" finished-at="2024-01-08T20:06:49 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:tests.NewTest@4b0d79fc]" started-at="2024-01-08T20:06:49 EST" name="afterSuite" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.NewTest -->
+      <class name="tests.testing2">
+        <test-method signature="test4()[pri:0, instance:tests.testing2@48aca48b]" started-at="2024-01-08T20:06:49 EST" name="test4" finished-at="2024-01-08T20:06:49 EST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method signature="test5()[pri:0, instance:tests.testing2@48aca48b]" started-at="2024-01-08T20:06:49 EST" name="test5" finished-at="2024-01-08T20:06:49 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- tests.testing2 -->
+      <class name="tests.testing3">
+        <test-method signature="createUser()[pri:1, instance:tests.testing3@771a660]" started-at="2024-01-08T20:06:49 EST" name="createUser" finished-at="2024-01-08T20:06:49 EST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method signature="editUser()[pri:2, instance:tests.testing3@771a660]" started-at="2024-01-08T20:06:49 EST" name="editUser" finished-at="2024-01-08T20:06:49 EST" depends-on-methods="tests.testing3.createUser" duration-ms="30" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[The following asserts failed:
+Verifying the Element expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: The following asserts failed:
+Verifying the Element expected [true] but found [false]
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:46)
+at org.testng.asserts.SoftAssert.assertAll(SoftAssert.java:30)
+at tests.testing3.editUser(testing3.java:26)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editUser -->
+        <test-method signature="deletUser()[pri:3, instance:tests.testing3@771a660]" started-at="2024-01-08T20:06:49 EST" name="deletUser" finished-at="2024-01-08T20:06:49 EST" depends-on-methods="tests.testing3.editUser" duration-ms="1" status="SKIP">
+          <exception class="java.lang.Throwable">
+            <message>
+              <![CDATA[Method tests.testing3.deletUser() on instance tests.testing3@771a660 depends on not successfully finished methods 
+[tests.testing3.editUser() on instance tests.testing3@771a660]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.Throwable: Method tests.testing3.deletUser() on instance tests.testing3@771a660 depends on not successfully finished methods 
+[tests.testing3.editUser() on instance tests.testing3@771a660]
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:156)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:848)
+at org.testng.TestRunner.run(TestRunner.java:621)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:443)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:437)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:397)
+at org.testng.SuiteRunner.run(SuiteRunner.java:336)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1280)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1200)
+at org.testng.TestNG.runSuites(TestNG.java:1114)
+at org.testng.TestNG.run(TestNG.java:1082)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.Throwable -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletUser -->
+      </class> <!-- tests.testing3 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
